@@ -21,4 +21,3 @@ This project is concerned with implementing a complete toolchain for translating
 
 * make all
 * ./start.sh
-* 
